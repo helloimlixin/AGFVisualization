@@ -47,4 +47,6 @@ Baseline methods are taken from [link](https://github.com/utkuozbulak/pytorch-cn
     pip install opencv-python
     ```
 
+6. Also the code should be able to run out of the box in Google's Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/helloimlixin/AGFVisualization/blob/master/tutorial.ipynb).
+
 Good luck!
